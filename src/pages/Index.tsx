@@ -88,7 +88,7 @@ const Index = () => {
             <div className="flex items-center gap-2">
               <Icon name="Building2" size={32} className="text-primary" />
               <span className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
-                СтройМастер
+                Строитель
               </span>
             </div>
             <div className="hidden md:flex items-center gap-6">
@@ -386,7 +386,7 @@ const Index = () => {
             <div>
               <div className="flex items-center gap-2 mb-4">
                 <Icon name="Building2" size={32} className="text-primary" />
-                <span className="text-2xl font-bold">СтройМастер</span>
+                <span className="text-2xl font-bold">Строитель</span>
               </div>
               <p className="text-gray-400">
                 Профессиональное строительство с 2009 года
@@ -420,7 +420,7 @@ const Index = () => {
             </div>
           </div>
           <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-            <p className="text-gray-400">© 2024 СтройМастер. Все права защищены.</p>
+            <p className="text-gray-400">© 2024 Строитель. Все права защищены.</p>
             <div className="flex gap-4">
               <a href="#" className="text-gray-400 hover:text-primary transition-colors">
                 Политика конфиденциальности
